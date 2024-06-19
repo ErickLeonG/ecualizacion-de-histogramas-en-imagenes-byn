@@ -1,0 +1,1 @@
+# ecualizacion-de-histogramas-en-imagenes-byn
